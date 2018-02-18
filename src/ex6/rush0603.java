@@ -5,7 +5,7 @@ public class rush0603 {
         //напишите тут ваш код
         for (int i = 0; i < 50000 ; i++) {
             Cat cat = new Cat();
-            Dog dog = new Dog();
+            Dog1 dog = new Dog1();
         }
     }
 }
@@ -18,7 +18,7 @@ class Cat {
     }
 }
 
-class Dog {
+class Dog1 {
     @Override
     protected void finalize() throws Throwable {
         super.finalize();
