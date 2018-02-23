@@ -14,4 +14,5 @@ public class rush0619 {
     public static void main(String[] args) {
 
     }
+
 }
